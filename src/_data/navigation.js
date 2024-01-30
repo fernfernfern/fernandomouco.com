@@ -5,12 +5,8 @@ module.exports = {
 			url: '/about/'
 		},
 		{
-			text: 'Documentation',
-			url: '/'
-		},
-		{
 			text: 'GitHub',
-			url: 'https://github.com/scottsweb/elva'
+			url: 'https://github.com/fernfernfern'
 		}
     ],
     sv: [
@@ -18,14 +14,6 @@ module.exports = {
 			text: 'Om',
 			url: '/om/'
 		},
-		{
-			text: 'Dokumentation',
-			url: '/'
-		},
-		{
-			text: 'GitHub',
-			url: 'https://github.com/scottsweb/elva'
-		}
     ]
 };
   
