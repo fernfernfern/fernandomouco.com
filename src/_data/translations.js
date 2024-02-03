@@ -1,7 +1,7 @@
 module.exports = {
     en: {
         meta: {
-            title: 'elva',
+            title: 'Fern',
             rssTitle: 'RSS Feed',
             jsonTitle: 'JSON Feed',
             description: 'A multilingual, clean, green, 11ty starter theme',
