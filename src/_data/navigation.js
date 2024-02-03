@@ -4,10 +4,10 @@ module.exports = {
 			text: 'About',
 			url: '/about/'
 		},
-		{
-			text: 'GitHub',
-			url: 'https://github.com/fernfernfern'
-		}
+		// {
+		// 	text: 'GitHub',
+		// 	url: 'https://github.com/fernfernfern'
+		// }
     ],
     sv: [
 		{

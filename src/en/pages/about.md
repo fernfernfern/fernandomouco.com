@@ -1,7 +1,7 @@
 ---
 title: About
 seo:
-  description: Fernando Mouco is an engineer, entertainer, and sometimes a good friend.
+  description: Fern. Like the plant
 ---
 
-content will be added later
+I make things grow.
