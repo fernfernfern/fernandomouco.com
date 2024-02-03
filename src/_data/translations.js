@@ -4,8 +4,8 @@ module.exports = {
             title: 'Fern',
             rssTitle: 'RSS Feed',
             jsonTitle: 'JSON Feed',
-            description: 'A multilingual, clean, green, 11ty starter theme',
-            opengraphDefaultAlt: 'An English description of the default opengraph image'
+            description: 'Fern. Like the plant.',
+            opengraphDefaultAlt: 'Fern. Like the plant.'
         },
         header: {
             skipLink: 'Skip to content',
